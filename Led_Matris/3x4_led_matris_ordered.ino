@@ -13,7 +13,7 @@ void setup()
   for(satir = 0; satir <3; satir++){
     for(sutun = 0; sutun <4; sutun++)
     {
-      ledler [3][4]= led;
+      ledler [satir][sutun]= led;
       led++;
     }
     }
