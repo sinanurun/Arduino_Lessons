@@ -29,6 +29,7 @@ void loop()
     for(sutun = 0; sutun <4; sutun++)
     {
      digitalWrite(ledler[satir][sutun],1);
+      delay(500);
     }
     }
 
@@ -36,6 +37,7 @@ void loop()
     for(sutun = 0; sutun <4; sutun++)
     {
      digitalWrite(ledler[satir][sutun],0);
+      delay(500);
     }
     }
 
