@@ -1,7 +1,7 @@
 // C++ code
 //
 int ledler [3][4];
-
+//değişti
 void setup()
 {
   int a;
